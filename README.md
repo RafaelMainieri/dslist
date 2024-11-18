@@ -59,8 +59,9 @@ Esse projeto foi contruido durante as aulas do evento "Intensivão Java Spring" 
      [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/swagger/swagger-original.svg" height=20/> Swagger](https://mvnrepository.com/artifact/io.swagger/swagger-annotations)
      para inicializar os endpoints presentes nas classes <strong>"GameController" e "GameListController"</strong> com seus respectivos mapeamentos, por exemplo:
 
-<img src="https://github.com/user-attachments/assets/643c2248-9b9e-4527-89b8-e2a53af7fb38" width=350 align="center">
-<img src="https://github.com/user-attachments/assets/ad8647f5-25b5-400b-8968-75e98b9b8cd2" width=550 align="center">
+<img src="https://github.com/user-attachments/assets/643c2248-9b9e-4527-89b8-e2a53af7fb38" width=500 align="center">
+<img src="https://github.com/user-attachments/assets/af4d2b48-afe4-4422-835c-aec7ae9028e3" align="center">
+
 
 
     
