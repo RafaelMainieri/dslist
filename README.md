@@ -8,7 +8,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" height=30 weight=30/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/hibernate/hibernate-original.svg" height=30 weight=30/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" height=30 weight=30/>
-
 </div>
 
 ## 💡Sobre 
@@ -34,5 +33,14 @@ Esse projeto foi contruido durante as aulas do evento "Intensivão Java Spring" 
   <img src="https://github.com/user-attachments/assets/84510da8-88d6-48fc-9e44-23ebe8d1cb3e">
 </div>
 
-
 ## 🧠Lógica 
+<p>
+  A ideia principal do projeto é uma aplicação que possa gerenciar listas de jogos (podendo ser transformada facilmente para qualquer nicho como filmes, receitas, séries, etc.) permitindo que os usuários organizem e visualizem seus jogos favoritos de forma personalizada.
+  O projeto funciona como uma API RESTful que fornece endpoints para algumas operações como buscar jogos, organizá-los em listas onde podem ser ordenados conforme a preferência do usuário, visualizar resumos e detalhes mais específicos de cada jogo, etc.
+</p>
+
+<p>
+  A lógica central do programa envolve o gerenciamento das entidades <strong>"Game" e "GameList"</strong> que representam respectivamente cada jogo e a lista de jogos, permitindo a associação entre ambos e a manipulação desses dados de forma rápida e eficaz.
+</p>
+
+
