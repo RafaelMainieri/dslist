@@ -30,6 +30,7 @@ public class GameListService {
 
     @Transactional
     public void move(Long listId, int sourceIndex, int destinationIndex) {
+
         List<GameMinProjection> list = gameRepository.searchByList(listId);
 
         GameMinProjection obj = list.remove(sourceIndex);
@@ -38,7 +39,7 @@ public class GameListService {
         int min = sourceIndex < destinationIndex ? sourceIndex : destinationIndex;
         int max = sourceIndex < destinationIndex ? destinationIndex : sourceIndex;
 
-        for (int i = min; i < max; i++) {
+        for (int i = min; i <= max; i++) {
             gameListRepository.updateBelongingPosition(listId, list.get(i).getId(), i);
         }
     }
