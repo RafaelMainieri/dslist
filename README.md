@@ -1,4 +1,4 @@
-# DSList 📽️
+# DSList 🎮
 
 <div align="center">
   <h3>Técnologias Utilizadas:</h3>
