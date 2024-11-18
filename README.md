@@ -43,4 +43,31 @@ Esse projeto foi contruido durante as aulas do evento "Intensivão Java Spring" 
   A lógica central do programa envolve o gerenciamento das entidades <strong>"Game" e "GameList"</strong> que representam respectivamente cada jogo e a lista de jogos, permitindo a associação entre ambos e a manipulação desses dados de forma rápida e eficaz.
 </p>
 
+## 🖱️Como executar
+
+  1. Clique no botão verde <img src="https://github.com/user-attachments/assets/2cc7d0ae-461e-43a1-b542-085ddddcc5bb" height=30> e copie a chave SSH do projeto <img src="https://github.com/user-attachments/assets/51191208-f7e6-49bc-b29b-7760b7d0814d" height=35>
+
+  2. Abra seu terminal, dentro da pasta desejado e digite o seguinte comando:
+  <code>git clone {chave_ssh}</code>
+
+  3. Abra o projeto no seu editor de código de preferência e rode a classe <code>DSListApplication</code>
+
+  4. Verifique em qual porta o Tomcat iniciou a aplicação <img src="https://github.com/user-attachments/assets/534003ff-5fdc-4646-a4d2-0be3e4ee53db">
+
+  5. Utilize o
+     [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" height=20/> Postman](https://www.postman.com/downloads/) ou
+     [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/swagger/swagger-original.svg" height=20/> Swagger](https://mvnrepository.com/artifact/io.swagger/swagger-annotations)
+     para inicializar os endpoints presentes nas classes <strong>"GameController" e "GameListController"</strong> com seus respectivos mapeamentos, por exemplo:
+
+<img src="https://github.com/user-attachments/assets/643c2248-9b9e-4527-89b8-e2a53af7fb38" width=400 align="center">
+<img src="https://github.com/user-attachments/assets/ad8647f5-25b5-400b-8968-75e98b9b8cd2" width=600 align="center">
+
+
+    
+
+  
+
+
+
+
 
